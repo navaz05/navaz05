@@ -1,107 +1,104 @@
-👋 Hi, I’m Navaz Odiya
+<h1 align="center">Hi 👋, I'm Navaz Odiya</h1>
+<h3 align="center">🚀 Entry-Level Python & Backend Developer | B.Tech CSE Student</h3>
 
-🎓 B.Tech Computer Engineering Student (2023–2027)
-📍 Jetpur, Gujarat, India
-💻 Entry-Level Python & Backend Developer
+<p align="center">
+  <a href="https://github.com/navaz05">
+    <img src="https://komarev.com/ghpvc/?username=navaz05&label=Profile%20views&color=0e75b6&style=flat" alt="navaz05" />
+  </a>
+</p>
 
-I am a motivated computer engineering student with strong fundamentals in Python, SQL, and backend development. I enjoy building real-world applications and continuously improving my problem-solving skills. I’m currently seeking opportunities to contribute to scalable and reliable software systems.
+---
 
-🎯 Career Objective
+## 👨‍💻 About Me
 
-Entry-level Python developer with strong fundamentals in Python, SQL, and problem-solving. Seeking an Associate Python Developer role to contribute to backend development and build reliable, scalable software systems.
+🎓 B.Tech Computer Engineering student at **RK University, Rajkot**  
+💡 Passionate about **Python, backend development, and problem-solving**  
+🔍 Actively seeking **Associate Python Developer / Backend Developer** roles  
+🌱 Currently learning **scalable backend systems & modern web technologies**
 
-🛠️ Technical Skills
+---
 
-Programming Languages
+## 🛠️ Tech Stack
 
-Python
+### 💻 Programming
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
-Java
+### 🌐 Web Development
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-Core Concepts
+### 🔙 Backend & Database
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
-Object-Oriented Programming (Java)
+### 🧰 Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-Web Development
+---
 
-HTML, CSS, JavaScript
+## 📂 Featured Projects
 
-PHP, ReactJS
+### 🏗️ BuildBond – Construction E-Commerce Website
+🔹 Responsive construction e-commerce platform  
+🔹 Product listing, cart, checkout & order management  
+🔹 Backend built with PHP & MySQL  
 
-Mobile Development
+**Tech Used:** PHP, MySQL, HTML, CSS, JavaScript
 
-Kotlin
+---
 
-Backend & Databases
+### 🍔 Zaikaa – Food Ordering Android App
+🔹 Android app with authentication & cart system  
+🔹 Real-time order processing using Firebase  
 
-.NET
+**Tech Used:** Kotlin, Firebase
 
-Firebase
+---
 
-MySQL
+## 🎓 Education
 
-Tools
+🎓 **B.Tech in Computer Engineering**  
+📍 RK University, Rajkot  
+📊 CGPA: **7.38 / 10** (Till 5th Semester)  
+📅 2023 – 2027
 
-Git, GitHub
+---
 
-📂 Projects
-🏗️ BuildBond – Construction E-Commerce Website
+## 📜 Certifications
 
-Technologies: PHP, MySQL, HTML, CSS, JavaScript
+✅ Database Management – Infosys (2024)  
+✅ Introduction to Generative AI Studio – Google Cloud (2025)
 
-Developed a responsive construction e-commerce website
+---
 
-Implemented product listing, cart, checkout, and order management
+## 🌍 Languages
 
-Focused on usability and clean backend logic
+- English  
+- Hindi  
+- Gujarati  
 
-🍔 Zaikaa – Food Ordering Application
+---
 
-Technologies: Kotlin, Firebase
+## 📫 Connect With Me
 
-Built an Android food-ordering application
+<p align="left">
+<a href="https://linkedin.com/in/navazodiya" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:navazodiyaa@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/navaz05">
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
 
-Implemented user authentication, cart, and order processing
+---
 
-Used Firebase real-time database for backend operations
-
-🎓 Education
-
-B.Tech in Computer Engineering
-RK University, Rajkot
-📅 July 2023 – June 2027
-📊 CGPA: 7.38 / 10 (Till 5th Semester)
-
-HSC (GSEB) – March 2023
-A Success School, Jetpur
-📊 Percentage: 49.23%
-
-SSC (GSEB) – May 2021
-Chabhadiya School, Jetpur
-📊 Percentage: 82.16%
-
-📜 Certifications
-
-Database Management – Infosys (2024)
-
-Introduction to Generative AI Studio – Google Cloud (2025)
-
-🌐 Languages
-
-English
-
-Hindi
-
-Gujarati
-
-📫 Connect With Me
-
-📧 Email: navazodiyaa@gmail.com
-
-🔗 GitHub: github.com/navaz05
-
-💼 LinkedIn: linkedin.com/in/navazodiya
-
-📞 Phone: +91-73813-98393
-
-⭐ I’m always open to learning, collaboration, and new opportunities in software development.
+⭐ **Always open to learning, collaboration, and backend development opportunities!**
