@@ -1,16 +1,10 @@
 <h1 align="center">Hi 👋, I'm Navaz Odiya</h1>
 <h3 align="center">
-🚀 Python Backend Developer | B.Tech Computer Engineering Student
+Backend & Web Developer | Data-Driven Thinker | B.Tech Computer Engineering
 </h3>
 
 <p align="center">
-  <a href="https://github.com/navaz05">
-    <img src="https://komarev.com/ghpvc/?username=navaz05&label=Profile%20Views&color=blueviolet&style=flat-square" />
-  </a>
-</p>
-
-<p align="center">
-💡 Building real-world backend systems • 📚 Continuous learner • ⚙️ Problem solver
+Building scalable backend systems • Working with databases • Exploring data-driven solutions
 </p>
 
 ---
@@ -18,73 +12,97 @@
 ## 👨‍💻 About Me
 
 🎓 B.Tech Computer Engineering student at **RK University, Rajkot**  
-🐍 Focused on **Python Backend Development & APIs**  
-🔍 Actively seeking **Associate Python / Backend Developer** roles  
-🧠 Interested in **scalable systems, databases & clean code**  
-🌱 Currently improving **DSA, backend architecture & system design basics**
+💻 Focused on **Backend Development, Databases & Web Systems**  
+📊 Inspired by **Data Science** and real-world data usage  
+🌱 Currently improving **SQL, backend architecture, APIs & DSA basics**
 
 ---
 
-## 🛠️ Tech Stack
+## 🧠 Technical Skills
 
 ### 💻 Programming Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+- 🐍 Python – backend logic & scripting  
+- 🐘 PHP – server-side development  
+- ☕ Java – fundamentals  
 
 ---
 
 ### 🔙 Backend Development
-![Python](https://img.shields.io/badge/Python_Backend-FFD43B?style=for-the-badge&logo=python&logoColor=black)
-![.NET](https://img.shields.io/badge/.NET_Backend-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase_Backend-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+- ⚙️ REST API design & implementation  
+- 🔐 Authentication & authorization  
+- 🧩 Business logic & validations  
+- 🗂️ CRUD operations  
+- 🧼 Clean & modular backend code  
 
-✔ REST APIs  
-✔ Backend Logic  
-✔ Authentication & Data Handling  
-✔ Scalable Code Practices  
+---
+
+### 🗄️ Databases & Data Handling
+- 🛢️ SQL – queries, joins, constraints  
+- 🐬 MySQL – relational schema design  
+- 🍃 MongoDB – NoSQL basics  
+- 🔥 Firebase – realtime & cloud database  
+
+> Strong focus on **data storage, retrieval & backend–database integration**
 
 ---
 
 ### 🌐 Web Development
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
----
-
-### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase_DB-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
+- 🧱 HTML – semantic structure  
+- 🎨 CSS – responsive layouts  
+- ⚡ JavaScript – client-side logic  
+- ⚛️ React – component-based UI  
 
 ---
 
 ### 🧰 Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+- 🌿 Git – version control  
+- 🐙 GitHub – collaboration & versioning  
+- 🖥️ VS Code – development environment  
 
 ---
 
-## 📂 Featured Projects
+## 📊 GitHub Progress & Stats
 
-### 🏗️ BuildBond – Construction E-Commerce Website
-🔹 Responsive construction e-commerce platform  
-🔹 Product listing, cart, checkout & order management  
-🔹 Backend logic with PHP & MySQL  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=navaz05&show_icons=true&theme=tokyonight" />
+</p>
 
-**Tech Used:** PHP, MySQL, HTML, CSS, JavaScript  
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=navaz05&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=navaz05&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=navaz05&theme=tokyonight" />
+</p>
+
+---
+
+## 📂 Projects
+
+### 🏗️ BuildBond – Construction E-Commerce Platform
+- Responsive multi-page web application  
+- Product catalog, cart, checkout & order history  
+- Coupon system, reviews & feedback module  
+- Strong backend with relational database  
+
+**Tech Stack:** PHP, MySQL, HTML, CSS, JavaScript  
 
 ---
 
 ### 🍔 Zaikaa – Food Ordering Android App
-🔹 Android application with user authentication  
-🔹 Cart & real-time order processing  
-🔹 Firebase backend integration  
+- Android app with user authentication  
+- Cart & real-time order processing  
+- Cloud-based backend integration  
 
-**Tech Used:** Kotlin, Firebase  
+**Tech Stack:** Kotlin, Firebase  
 
 ---
 
@@ -98,14 +116,12 @@
 ---
 
 ## 📜 Certifications
-
-✅ Database Management – Infosys (2024)  
-✅ Introduction to Generative AI Studio – Google Cloud (2025)  
+- ✅ Database Management – Infosys (2024)  
+- ✅ Introduction to Generative AI Studio – Google Cloud (2025)  
 
 ---
 
 ## 🌍 Languages
-
 - English  
 - Hindi  
 - Gujarati  
@@ -114,18 +130,10 @@
 
 ## 📫 Connect With Me
 
-<p align="left">
-<a href="https://linkedin.com/in/navazodiya" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Professional-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-<a href="mailto:navazodiyaa@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail"/>
-</a>
-<a href="https://github.com/navaz05">
-  <img src="https://img.shields.io/badge/GitHub-Projects-black?style=for-the-badge&logo=github"/>
-</a>
-</p>
+- 🔗 LinkedIn: https://linkedin.com/in/navazodiya  
+- 📧 Email: navazodiyaa@gmail.com  
+- 🐙 GitHub: https://github.com/navaz05  
 
 ---
 
-⭐ *Focused on backend development, clean architecture & continuous improvement.*
+⭐ *Focused on backend engineering, databases, clean architecture & continuous improvement.*
