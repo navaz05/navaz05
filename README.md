@@ -24,6 +24,7 @@ Building scalable backend systems • Working with databases • Exploring data-
 - 🐍 Python – backend logic & scripting  
 - 🐘 PHP – server-side development  
 - ☕ Java – fundamentals  
+- 💠 C# – .NET backend development  
 
 ---
 
@@ -58,6 +59,7 @@ Building scalable backend systems • Working with databases • Exploring data-
 - 🌿 Git – version control  
 - 🐙 GitHub – collaboration & versioning  
 - 🖥️ VS Code – development environment  
+- 💠 .NET – backend application framework  
 
 ---
 
@@ -77,15 +79,19 @@ Building scalable backend systems • Working with databases • Exploring data-
 
 ---
 
-## 📈 Contribution Graph
+## 📂 Projects
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=navaz05&theme=tokyonight" />
-</p>
+### 💰 Finance Management System (.NET)
+- Backend-driven finance management application  
+- Income & expense tracking with structured data storage  
+- Category-wise financial records  
+- Secure data handling & validations  
+- Designed for **real-world personal / small business finance use**
+
+**Tech Stack:**  
+C#, .NET, SQL Server / MySQL, ADO.NET  
 
 ---
-
-## 📂 Projects
 
 ### 🏗️ BuildBond – Construction E-Commerce Platform
 - Responsive multi-page web application  
@@ -93,7 +99,8 @@ Building scalable backend systems • Working with databases • Exploring data-
 - Coupon system, reviews & feedback module  
 - Strong backend with relational database  
 
-**Tech Stack:** PHP, MySQL, HTML, CSS, JavaScript  
+**Tech Stack:**  
+PHP, MySQL, HTML, CSS, JavaScript  
 
 ---
 
@@ -102,7 +109,8 @@ Building scalable backend systems • Working with databases • Exploring data-
 - Cart & real-time order processing  
 - Cloud-based backend integration  
 
-**Tech Stack:** Kotlin, Firebase  
+**Tech Stack:**  
+Kotlin, Firebase  
 
 ---
 
@@ -136,4 +144,4 @@ Building scalable backend systems • Working with databases • Exploring data-
 
 ---
 
-⭐ *Focused on backend engineering, databases, clean architecture & continuous improvement.*
+⭐ *Focused on backend engineering, databases, finance-driven systems & continuous improvement.*
